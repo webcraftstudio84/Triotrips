@@ -1,0 +1,6 @@
+{
+  "name": "Triotrips – Explore the World",
+  "description": "Explore India and the world with affordable tour packages, expert guides, and seamless travel planning from Parbhani, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
